@@ -4,19 +4,19 @@
     "url": "https://coolify.verixium.com",
     "icon": "https://icons.duckduckgo.com/ip3/coolify.verixium.com.ico",
     "slug": "coolify",
-    "status": "down",
-    "uptime": "97.46%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.46%",
-    "time": 655,
-    "timeDay": 655,
-    "timeWeek": 655,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "97.11%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "97.11%",
+    "time": 625,
+    "timeDay": 625,
+    "timeWeek": 625,
+    "timeMonth": 625,
+    "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-10-13": 34
+      "2025-10-13": 38
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sulami.verixium.com",
     "icon": "https://icons.duckduckgo.com/ip3/sulami.verixium.com.ico",
     "slug": "sulami",
-    "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "98.09%",
-    "time": 507,
-    "timeDay": 405,
-    "timeWeek": 507,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 521,
+    "timeDay": 448,
+    "timeWeek": 521,
+    "timeMonth": 521,
+    "timeYear": 521,
     "dailyMinutesDown": {
-      "2025-10-13": 32
+      "2025-10-13": 37
     }
   }
 ]
