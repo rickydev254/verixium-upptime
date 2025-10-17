@@ -4,9 +4,9 @@
     "url": "https://coolify.verixium.com",
     "icon": "https://icons.duckduckgo.com/ip3/coolify.verixium.com.ico",
     "slug": "coolify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.88%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.52%",
@@ -16,6 +16,7 @@
     "timeMonth": 632,
     "timeYear": 632,
     "dailyMinutesDown": {
+      "2025-10-17": 2,
       "2025-10-13": 33
     }
   },
@@ -24,19 +25,19 @@
     "url": "https://sulami.verixium.com",
     "icon": "https://icons.duckduckgo.com/ip3/sulami.verixium.com.ico",
     "slug": "sulami",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 958,
     "timeDay": 1338,
     "timeWeek": 958,
     "timeMonth": 958,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2025-10-17": 20,
+      "2025-10-17": 21,
       "2025-10-13": 32
     }
   },
@@ -45,37 +46,39 @@
     "url": "https://nexus.verixium.com",
     "icon": "https://icons.duckduckgo.com/ip3/nexus.verixium.com.ico",
     "slug": "nexus",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 687,
     "timeDay": 484,
     "timeWeek": 687,
     "timeMonth": 687,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-17": 1
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.verixium.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.verixium.com.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "98.72%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 3448,
-    "timeDay": 3342,
+    "timeDay": 3335,
     "timeWeek": 3448,
     "timeMonth": 3448,
     "timeYear": 3448,
     "dailyMinutesDown": {
-      "2025-10-17": 33
+      "2025-10-17": 20
     }
   }
 ]
