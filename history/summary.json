@@ -68,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.verixium.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptime": "99.02%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 3293,
     "timeDay": 3004,
     "timeWeek": 3293,
     "timeMonth": 3293,
     "timeYear": 3293,
     "dailyMinutesDown": {
-      "2025-10-18": 17,
+      "2025-10-18": 23,
       "2025-10-17": 20
     }
   }
