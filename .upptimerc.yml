@@ -9,6 +9,8 @@ sites:
     url: https://sulami.verixium.com
   - name: Nexus
     url: https://nexus.verixium.com
+  - name: Google
+    url: https://google.com
 #
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
