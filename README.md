@@ -1,6 +1,6 @@
 # [📈 Live Status](https://rickydev254.github.io/verixium-upptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Eric](https://rickydev254.github.io/verixium-upptime), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Verixium](https://rickydev254.github.io/verixium-upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/rickydev254/verixium-upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/rickydev254/verixium-upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/rickydev254/verixium-upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/rickydev254/verixium-upptime/actions?query=workflow%3A%22Response+Time+CI%22)
