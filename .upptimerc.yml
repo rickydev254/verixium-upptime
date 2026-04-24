@@ -7,6 +7,8 @@ sites:
   #   url: https://coolify.verixium.com
   - name: Sulami
     url: https://sulami.verixium.com
+  - name: Zarban
+    url: https://zarban.verixium.com
   # - name: Nexus
   #   url: https://nexus.verixium.com
 #
