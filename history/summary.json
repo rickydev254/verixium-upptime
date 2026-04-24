@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 916,
-    "timeDay": 1545,
-    "timeWeek": 1931,
-    "timeMonth": 1931,
-    "timeYear": 916,
+    "time": 924,
+    "timeDay": 1700,
+    "timeWeek": 1938,
+    "timeMonth": 1938,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2025-11-30": 19,
       "2025-11-29": 21,
@@ -46,19 +46,19 @@
     "url": "https://zarban.verixium.com",
     "icon": "https://icons.duckduckgo.com/ip3/zarban.verixium.com.ico",
     "slug": "zarban",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 352,
-    "timeDay": 352,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "status": "up",
+    "uptime": "48.83%",
+    "uptimeDay": "48.83%",
+    "uptimeWeek": "48.83%",
+    "uptimeMonth": "48.83%",
+    "uptimeYear": "48.83%",
+    "time": 379,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2026-04-24": 0
+      "2026-04-24": 41
     }
   }
 ]
