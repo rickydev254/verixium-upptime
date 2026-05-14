@@ -1,5 +1,25 @@
 [
   {
+    "name": "Komodo",
+    "url": "https://komodo.verixium.com",
+    "icon": "https://icons.duckduckgo.com/ip3/komodo.verixium.com.ico",
+    "slug": "komodo",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
+    "dailyMinutesDown": {
+      "2026-05-14": 15
+    }
+  },
+  {
     "name": "N8N",
     "url": "https://n8n.verixium.com",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.verixium.com.ico",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
+    "time": 183,
+    "timeDay": 183,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1088,
-    "timeDay": 1773,
-    "timeWeek": 2011,
-    "timeMonth": 2058,
-    "timeYear": 1088,
+    "time": 1095,
+    "timeDay": 1887,
+    "timeWeek": 2033,
+    "timeMonth": 2063,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2025-11-30": 19,
       "2025-11-29": 21,
@@ -70,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 310,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 316,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2026-04-24": 41
     }
