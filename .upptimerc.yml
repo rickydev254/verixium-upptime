@@ -3,8 +3,8 @@ owner: rickydev254
 repo: verixium-upptime
 
 sites:
-  # - name: Komodo
-  #   url: https://komodo.verixium.com
+  - name: Komodo
+    url: https://komodo.verixium.com
   - name: N8N
     url: https://n8n.verixium.com
   - name: Sulami
