@@ -3,12 +3,14 @@ owner: rickydev254
 repo: verixium-upptime
 
 sites:
-  # - name: Coolify
-  #   url: https://coolify.verixium.com
+  - name: Komodo
+    url: https://komodo.verixium.com
+  - name: N8N
+    url: https://n8n.verixium.com
   - name: Sulami
     url: https://sulami.verixium.com
-  # - name: Zarban
-  #   url: https://zarban.verixium.com
+  - name: Zarban
+    url: https://zarban.verixium.com
 #
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
