@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zarban.verixium.com.ico",
     "slug": "zarban",
     "status": "down",
-    "uptime": "98.40%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.40%",
+    "uptime": "91.25%",
+    "uptimeDay": "86.09%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "91.25%",
     "time": 328,
     "timeDay": 287,
     "timeWeek": 302,
     "timeMonth": 328,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2026-05-16": 0,
+      "2026-05-16": 200,
       "2026-04-24": 41
     }
   }
