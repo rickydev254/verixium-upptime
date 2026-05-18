@@ -13,8 +13,8 @@ sites:
     url: https://n8n.verixium.qzz.io
   - name: Zarban
     url: https://zarban.verixium.com
-  - name: Care-Dev
-    url: https://care.verixium.qzz.io
+  # - name: Care-Dev
+  #   url: https://care.verixium.qzz.io
   - name: Sulami
     url: https://sulami.verixium.com
   
