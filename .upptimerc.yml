@@ -5,32 +5,32 @@ repo: verixium-upptime
 sites:
   - name: Komodo
     url: https://komodo.verixium.com
-    type: globalping
-    location: nairobi
+    # type: globalping
+    # location: nairobi
   - name: Komodo-Dev
     url: https://komodo.verixium.qzz.io
-    type: globalping
-    location: nairobi
+    # type: globalping
+    # location: nairobi
   - name: N8N
     url: https://n8n.verixium.com
-    type: globalping
-    location: nairobi
+    # type: globalping
+    # location: nairobi
   - name: N8N-Dev
     url: https://n8n.verixium.qzz.io
-    type: globalping
-    location: nairobi
+    # type: globalping
+    # location: nairobi
   - name: Zarban
     url: https://zarban.verixium.com
-    type: globalping
-    location: nairobi
+    # type: globalping
+    # location: nairobi
   - name: Care-Dev
     url: https://care.verixium.qzz.io
-    type: globalping
-    location: nairobi
+    # type: globalping
+    # location: nairobi
   - name: Sulami
     url: https://sulami.verixium.com
-    type: globalping
-    location: nairobi
+    # type: globalping
+    # location: nairobi
   
 #
 status-website:
