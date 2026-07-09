@@ -22,10 +22,10 @@
     "url": "https://komodo.verixium.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/komodo.verixium.qzz.io.ico",
     "slug": "komodo-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1228,
@@ -33,7 +33,9 @@
     "timeWeek": 278,
     "timeMonth": 893,
     "timeYear": 1228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-09": 1
+    }
   },
   {
     "name": "N8N",
@@ -58,9 +60,9 @@
     "url": "https://n8n.verixium.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.verixium.qzz.io.ico",
     "slug": "n8-n-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 262,
     "timeMonth": 882,
     "timeYear": 1205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-09": 0
+    }
   },
   {
     "name": "Zarban",
@@ -97,9 +101,9 @@
     "url": "https://care.verixium.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/care.verixium.qzz.io.ico",
     "slug": "care-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -109,7 +113,8 @@
     "timeMonth": 910,
     "timeYear": 1160,
     "dailyMinutesDown": {
-      "2026-05-18": 16
+      "2026-05-18": 16,
+      "2026-07-09": 0
     }
   },
   {
